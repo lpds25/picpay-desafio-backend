@@ -1,3 +1,4 @@
+Video link: https://www.youtube.com/watch?v=QXunBiLq2SM
 # Desafio Back-end PicPay
 
 Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de pagamentos do mundo!
